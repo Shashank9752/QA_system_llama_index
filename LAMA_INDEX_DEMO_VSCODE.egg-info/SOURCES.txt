@@ -1,0 +1,9 @@
+setup.py
+LAMA_INDEX_DEMO_VSCODE.egg-info/PKG-INFO
+LAMA_INDEX_DEMO_VSCODE.egg-info/SOURCES.txt
+LAMA_INDEX_DEMO_VSCODE.egg-info/dependency_links.txt
+LAMA_INDEX_DEMO_VSCODE.egg-info/top_level.txt
+QAWithPDF/__init__.py
+QAWithPDF/data_ingestion.py
+QAWithPDF/embedding.py
+QAWithPDF/model_api.py
